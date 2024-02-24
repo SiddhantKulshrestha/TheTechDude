@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TheTechDude/static/css/main.704b7110.css",
+    "main.js": "/TheTechDude/static/js/main.c3a88360.js",
+    "static/media/3.png": "/TheTechDude/static/media/3.3347e7a56f5ba374d61a.png",
+    "static/media/22.png": "/TheTechDude/static/media/22.6fb7dbe8e6963b2df97f.png",
+    "static/media/2.jpg": "/TheTechDude/static/media/2.326009f3053616644cd4.jpg",
+    "static/media/1.png": "/TheTechDude/static/media/1.7483a8967fc76c102a83.png",
+    "index.html": "/TheTechDude/index.html",
+    "main.704b7110.css.map": "/TheTechDude/static/css/main.704b7110.css.map",
+    "main.c3a88360.js.map": "/TheTechDude/static/js/main.c3a88360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.704b7110.css",
+    "static/js/main.c3a88360.js"
+  ]
+}
